@@ -1,5 +1,6 @@
 # Jira-Ticketing-system-walkthrough
 
+<p align="center">
 ![download](https://github.com/user-attachments/assets/55625ee3-6226-4d10-bf39-5b30ec9adec2)
 
 [Youtube:Jira Ticketing Demo](https://youtu.be/Md9IbVIZAe4)
