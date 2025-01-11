@@ -1,7 +1,8 @@
 # Jira-Ticketing-system-walkthrough
 https://youtu.be/Md9IbVIZAe4
+![download](https://github.com/user-attachments/assets/55625ee3-6226-4d10-bf39-5b30ec9adec2)
 
-
+[Youtube:Jira Ticketing Demo](https://youtu.be/Md9IbVIZAe4)
 Objective: Gain knowledge and insight Of Jira's ticketing system Understanding The life cycle within Jira
 
 Step one ticket creation: 
