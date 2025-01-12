@@ -24,14 +24,16 @@ Step two Working this ticket:
 Step 3 Ticket Resolution
 -Relay to the customer the issue has been resloved
 -Keep documentation of the process taken to resolve issue for future developments
-<p>
-<img src="![service now screen shot](https://github.com/user-attachments/assets/458f6ba6-e86c-4f77-a02d-323f9153a6ff)
-" alt="ServiceNow Screenshot"/>
-</p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+![jira 3](https://github.com/user-attachments/assets/2afbcb1b-c89d-4f64-aef0-9642c7d6d8ef)
+
+![JIra ticket creation](https://github.com/user-attachments/assets/70f76c4e-b5f3-4f6d-8e41-c46cbb72a80e)
+![jira ticket pt 2](https://github.com/user-attachments/assets/e9ce99a4-1365-42e3-b63c-68afb915b152)
+![jira resolve](https://github.com/user-attachments/assets/de3d5a08-83ef-41b0-8fa3-76afcbc38245)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
