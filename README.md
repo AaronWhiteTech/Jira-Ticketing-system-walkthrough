@@ -7,7 +7,9 @@
 
 Objective: Gain knowledge and insight Of Jira's ticketing system Understanding The life cycle within Jira
 
-Step one ticket creation: 
+
+<h2>Lifecycle Stages</h2>
+
 
 -identifying the user,
 -The user's problem. 
@@ -22,21 +24,37 @@ Step two Working this ticket:
 -Utilize the knowledgebase for refrence
 
 Step 3 Ticket Resolution
--Relay to the customer the issue has been resloved
+Relay to the customer the issue has been resloved
 -Keep documentation of the process taken to resolve issue for future developments
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
+<h2>Ticket Creation</h2>
+
+
+
+- Here i create the ticket, choosing the issue based on the needs of the client
+
+![jira ticket pt 2](https://github.com/user-attachments/assets/e9ce99a4-1365-42e3-b63c-68afb915b152)
+
+
+
+<h4>Working the ticket</h4>
+
+- Post ticket creation in the left tab i can calibrate
+ the ticket's impact, serverity and urgency, the asignee and the person assigned the ticket
 
 ![jira 3](https://github.com/user-attachments/assets/2afbcb1b-c89d-4f64-aef0-9642c7d6d8ef)
 
-![JIra ticket creation](https://github.com/user-attachments/assets/70f76c4e-b5f3-4f6d-8e41-c46cbb72a80e)
-![jira ticket pt 2](https://github.com/user-attachments/assets/e9ce99a4-1365-42e3-b63c-68afb915b152)
+
+
+
+<h3>Ticket Resolution</h3>
+
+- Here i reslove the ticket documenting the process,
+- The solution and steps taken to implement the solution, and creating internal notes and adding to the knowledge base
+
+
+
 ![jira resolve](https://github.com/user-attachments/assets/de3d5a08-83ef-41b0-8fa3-76afcbc38245)
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
