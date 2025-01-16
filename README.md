@@ -43,6 +43,7 @@ Relay to the customer the issue has been resloved
 
 - Post ticket creation in the left tab i can calibrate
  the ticket's impact, serverity and urgency, the asignee and the person assigned the ticket
+At this stage i would solve the porblem or collaborate with teammates, or if needed I can escalte the ticket to someone with the right resources for the isssue
 
 ![jira 3](https://github.com/user-attachments/assets/2afbcb1b-c89d-4f64-aef0-9642c7d6d8ef)
 
